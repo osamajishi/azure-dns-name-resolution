@@ -1,4 +1,4 @@
-# Enterprise DNS Resolution & Anycast Traffic Routing on Azure
+# Enterprise DNS Resolution
 
 ![Azure](https://img.shields.io/badge/Azure-Cloud-0089D6?style=flat&logo=microsoftazure)
 ![IaC](https://img.shields.io/badge/IaC-Bicep-007ACC?style=flat&logo=arm)
